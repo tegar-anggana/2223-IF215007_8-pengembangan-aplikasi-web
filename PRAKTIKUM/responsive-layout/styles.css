@@ -25,7 +25,13 @@ body {
 
 .brand {
   height: auto;
-  width: 165px;
+  width: 160px;
+}
+
+.hamburger {
+  margin-top: 10px;
+  height: auto;
+  width: 36px;
 }
 
 .header-brand {
@@ -104,4 +110,7 @@ button:hover {
 }
 
 @media only screen and (min-width: 911px) {
+  .hamburger-wrapper {
+    display: none;
+  }
 }
