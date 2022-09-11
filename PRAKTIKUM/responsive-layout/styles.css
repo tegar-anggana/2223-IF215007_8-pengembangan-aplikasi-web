@@ -161,6 +161,10 @@ button:hover {
   .header-brand {
     margin: 10px auto;
   }
+
+  .store-nav {
+    display: none;
+  }
 }
 
 @media only screen and (min-width: 911px) {
