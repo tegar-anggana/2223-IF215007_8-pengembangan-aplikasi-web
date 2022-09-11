@@ -19,13 +19,18 @@ body {
 .container {
   display: flex;
   margin: 0 auto;
-  padding: 0 14px;
+  padding: 0 10px;
   max-width: 900px;
 }
 
 .brand {
   height: auto;
-  width: 170px;
+  width: 165px;
+}
+
+.header-brand {
+  display: flex;
+  align-items: center;
 }
 
 .header-nav {
@@ -87,7 +92,16 @@ button:hover {
   color: white;
 }
 
-@media only screen and (min-width: 1200px) {
+@media only screen and (max-width: 910px) {
+  .header-action,
   .header-nav {
+    display: none;
   }
+
+  .header-brand {
+    margin: 10px auto;
+  }
+}
+
+@media only screen and (min-width: 911px) {
 }
