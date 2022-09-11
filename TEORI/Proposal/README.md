@@ -58,3 +58,8 @@ Proposal ini dibuat untuk memenuhi tugas [teori class CLO-0212 Project: Proposal
 
 ## :house_with_garden: UX Wireframe 
 <img width="656" alt="wireframe" src="https://user-images.githubusercontent.com/80917799/189483816-98d45cc7-8069-43cc-838b-5402fec84712.png">
+<img width="542" alt="filter aktivitas" src="https://user-images.githubusercontent.com/80917799/189530005-f5587008-f523-4338-bf25-1e44a4ee2af1.png">
+<img width="542" alt="jadwal kuliah" src="https://user-images.githubusercontent.com/80917799/189530009-29a865c9-3a0f-408c-a2f5-70137430d0fa.png">
+<img width="542" alt="tambah aktivitas" src="https://user-images.githubusercontent.com/80917799/189530020-9fc5bb79-ca26-4b19-ae99-01f40ef8620f.png">
+<img width="543" alt="tambah halaman" src="https://user-images.githubusercontent.com/80917799/189530023-ae4169a7-a5dd-4ccc-bfae-024f5c9658f7.png">
+
