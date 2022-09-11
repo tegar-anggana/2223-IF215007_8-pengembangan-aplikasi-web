@@ -18,7 +18,9 @@ body {
 
 .container {
   display: flex;
-  padding: 0 100px;
+  margin: 0 auto;
+  padding: 0 14px;
+  max-width: 900px;
 }
 
 .brand {
@@ -83,4 +85,9 @@ button {
 button:hover {
   cursor: pointer;
   color: white;
+}
+
+@media only screen and (min-width: 1200px) {
+  .header-nav {
+  }
 }
