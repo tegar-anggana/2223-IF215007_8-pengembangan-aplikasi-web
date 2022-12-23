@@ -5,13 +5,13 @@
 - KELAS TEORI : **F**
 ## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
 - Demo : Git installation
-<img width="475" alt="image" src="https://user-images.githubusercontent.com/80917799/209251171-dc341f25-7822-48eb-a151-7de83a880d5e.png">
+- <img width="475" alt="image" src="https://user-images.githubusercontent.com/80917799/209251171-dc341f25-7822-48eb-a151-7de83a880d5e.png">
 
 - Demo : Github project initialization
-https://github.com/tegar-anggana/2223-IF215007_8-pengembangan-aplikasi-web
+- https://github.com/tegar-anggana/2223-IF215007_8-pengembangan-aplikasi-web
 
 - Demo : Hoppscotch / Postman access
-![image](https://user-images.githubusercontent.com/80917799/209251345-286389fb-3309-475a-a5be-2732a6645cf9.png)
+- ![image](https://user-images.githubusercontent.com/80917799/209251345-286389fb-3309-475a-a5be-2732a6645cf9.png)
 
 - Demo : PHP & Composer installation & hello world
 
