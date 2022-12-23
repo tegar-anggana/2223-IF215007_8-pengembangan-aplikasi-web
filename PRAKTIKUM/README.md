@@ -47,18 +47,18 @@
 - ![image](https://user-images.githubusercontent.com/80917799/209251910-f1b9b20f-7640-4776-8b59-1869370797da.png)
 
 - Demo : PostgreSQL / MySQL installation
-
+- ![image](https://user-images.githubusercontent.com/80917799/209268932-4a432eae-fdd6-4c99-b1e5-490c575969c7.png)
 
 - Demo : DBeaver installation & DB connection
 ![image](https://user-images.githubusercontent.com/80917799/209267740-b872b2bd-0c31-4f2e-b460-762d43f0fea7.png)
-
-- Demo : MobaXterm installation & SSH connection
 
 - Demo : Linux server operation
 - <img width="708" alt="DOCKEL PRAK WEB" src="https://user-images.githubusercontent.com/80917799/209265214-6991246b-cd5a-4c62-8dce-2b2a0a00fc4f.png">
 
 - Demo : Nginx / Apache web server installation & operation
 ![image](https://user-images.githubusercontent.com/80917799/209265687-02084262-7eb1-453f-bb93-c8047a63e081.png)
+
+- Demo : MobaXterm installation & SSH connection
 
 - Demo : Cpanel operation
 - Demo : PHP & Composer installation & hello world
