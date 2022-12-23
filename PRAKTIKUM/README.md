@@ -1,9 +1,8 @@
 # Assessment Praktikum
-
-NAMA : **Tegar Levta Anggana**
-NIM : **1207050123**
-KELAS PRAKTIKUM : **H**
-KELAS TEORI : **F**
+- NAMA : **Tegar Levta Anggana**
+- NIM : **1207050123**
+- KELAS PRAKTIKUM : **H**
+- KELAS TEORI : **F**
 ## [Assesments](Demo%20:%20PHP%20&%20Composer%20installation%20&%20hello%20world)
 - Demo : Git installation
 - Demo : Github project initialization
