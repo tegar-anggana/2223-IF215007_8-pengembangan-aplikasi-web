@@ -29,7 +29,7 @@
 - Demo : HTTP GET & POST using Form Action and Fetch API
 - <img height="200" src="https://user-images.githubusercontent.com/80917799/209255599-f69e3092-d3f2-478b-80b6-28e3dbbefde4.png">
 - <img height="200" src="https://user-images.githubusercontent.com/80917799/209255665-80bb7fe5-f145-4145-b1d6-f2a3bb722341.png">
-- <img height="200" src="https://user-images.githubusercontent.com/80917799/209255673-bb8e5350-ffd2-4da2-a796-a6f7c18c401f.png">
+- <img src="https://user-images.githubusercontent.com/80917799/209255673-bb8e5350-ffd2-4da2-a796-a6f7c18c401f.png">
  
 - Demo : PHP DB - Web Service
 - <img height="200" src="https://user-images.githubusercontent.com/80917799/209264820-2e6e96dc-747e-41a7-adc4-a26f8b266953.png">
