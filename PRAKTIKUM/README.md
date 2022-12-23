@@ -3,7 +3,7 @@
 - NIM : **1207050123**
 - KELAS PRAKTIKUM : **H**
 - KELAS TEORI : **F**
-## [Assesments](Demo%20:%20PHP%20&%20Composer%20installation%20&%20hello%20world)
+## [Assessments](https://github.com/insanalamin/2223-IF215007_8-pengembangan-aplikasi-web#workshop-class-1-credit)
 - Demo : Git installation
 - Demo : Github project initialization
 - Demo : Hoppscotch / Postman access
