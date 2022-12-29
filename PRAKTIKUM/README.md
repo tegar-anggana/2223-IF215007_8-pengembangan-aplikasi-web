@@ -59,11 +59,28 @@
 - <img height="200" src="https://user-images.githubusercontent.com/80917799/209265687-02084262-7eb1-453f-bb93-c8047a63e081.png">
 
 ### Demo : MobaXterm installation & SSH connection
+- ![image](https://user-images.githubusercontent.com/80917799/209897353-7a0715c7-1782-44f5-bcc3-f83edbbf485e.png)
+- ![image](https://user-images.githubusercontent.com/80917799/209897368-49f30a65-fda3-423a-9345-3b6aa9d4dae8.png)
+
 ### Demo : Cpanel operation
-### Demo : PHP & Composer installation & hello world
+- ![image](https://user-images.githubusercontent.com/80917799/209897673-bf3c47e1-223a-4c31-a080-b7ea145f8dab.png)
+- Publish a website : Memilih site builder untuk membangun dan memonitor website
+- Create emails & calendars : Memungkinkan pelanggan untuk tetap terhubung dengan email dan kalender di cPanel. Mereka bisa membuat akun, membuat kalendar dan memiliki proteksi spam.
+- Backup, transfer & manage files : Melakukan backup dan memindahkan berkas berkas web dari dalam interface cPanel, atau memberikan customer kendali FTP.
+- Me-manage domain : Membuat alias, membuat atau menghapus subdomain, memanage zona zona DNS dan pengunjung direct site.
+- Meluncurkan database : Launch Memberikan customer kemampuan untuk mendesain database custom menggunakan MySQL Wizard, phpMyAdmin, dan lain lain.
+
 ### Demo : Domain registration
+- ![image](https://user-images.githubusercontent.com/80917799/209898013-25c4d853-38c5-440c-8bb9-0923e7e6d756.png)
+
 ### Demo : PHP DB - Dynamic Web Page
+- ![image](https://user-images.githubusercontent.com/80917799/209899936-02072150-7f96-4e02-9579-89f2c11e60eb.png)
+- ![image](https://user-images.githubusercontent.com/80917799/209899949-7b220517-e436-41f4-b450-a5b42af0bad1.png)
+
 ### Demo : Deploy PHP Project to Cpanel
-### Demo : Dynamic Web Page using Laravel
-### Demo : Web Service using Slim
+- ![image](https://user-images.githubusercontent.com/80917799/209898112-c16f0b74-a237-4433-acfa-e2e5fd5f445c.png)
+- ![image](https://user-images.githubusercontent.com/80917799/209898128-48a8e1e7-1ed7-4832-9bd7-286d559ca465.png)
+
 ### Demo : News Site using Wordpress
+- ![image](https://user-images.githubusercontent.com/80917799/209898221-7bb37c00-92a6-44a4-ac0c-f787a078e24d.png)
+- ![image](https://user-images.githubusercontent.com/80917799/209898261-10b2be33-2c3e-4c23-8e0f-ce65ec5a01a1.png)
