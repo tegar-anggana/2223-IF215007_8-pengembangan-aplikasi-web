@@ -54,6 +54,9 @@
 
 ### Demo : Linux server operation
 - <img height="200" alt="DOCKEL PRAK WEB" src="https://user-images.githubusercontent.com/80917799/209265214-6991246b-cd5a-4c62-8dce-2b2a0a00fc4f.png">
+- <img height="200" src="https://user-images.githubusercontent.com/80917799/210161488-04ea118b-339c-46ca-8133-cc48edf7d319.png">
+- <img height="200" src="https://user-images.githubusercontent.com/80917799/210161515-c2d468a4-6d16-436b-a641-965aa7610834.png">
+
 
 ### Demo : Nginx / Apache web server installation & operation
 - <img height="200" src="https://user-images.githubusercontent.com/80917799/209265687-02084262-7eb1-453f-bb93-c8047a63e081.png">
